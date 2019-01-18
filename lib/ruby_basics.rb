@@ -12,7 +12,8 @@ def argue(variable)
   variable
 end
 
-def greeting
+def greeting(greeting, name)
+  
 
 end
 
